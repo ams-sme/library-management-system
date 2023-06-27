@@ -7,4 +7,7 @@ class Book():
         
     def get_count(self):
         return 0
+    
+    def something(self):
         
+        return 1
