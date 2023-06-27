@@ -5,3 +5,6 @@ class Book():
         self.author = author
         self.quantity = quantity
         
+    def get_count(self):
+        return 0
+        
