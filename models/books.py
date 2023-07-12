@@ -9,5 +9,5 @@ class Book():
         return 0
     
     def something(self):
-        
+        print("something")
         return 1
